@@ -1,10 +1,10 @@
-<a href="https://acroahsap.com"><img src="assets/hero.webp" alt="Acro Ahşap presentation: desktop and mobile screens of the live catalogue" width="100%"></a>
+<a href="https://acroahsap.com"><img src="assets/cover.webp" alt="Acro Ahşap: real desktop and mobile screens of acroahsap.com" width="100%"></a>
 
 # Acro Ahşap
 
 A visual product catalogue for doors, kitchens, bathrooms, wardrobes and interior living solutions.
 
-**Live:** [acroahsap.com](https://acroahsap.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit acroahsap.com ↗︎](https://acroahsap.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -17,8 +17,12 @@ A visual product catalogue for doors, kitchens, bathrooms, wardrobes and interio
 
 Next.js · React · TypeScript · Supabase
 
-<p align="center"><a href="https://acroahsap.com"><img src="assets/poster.webp" alt="Acro Ahşap portrait presentation with desktop and mobile screens" width="420"></a></p>
+### Screens
+
+<a href="https://acroahsap.com"><img src="assets/desktop.webp" alt="Acro Ahşap desktop: real screen of acroahsap.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="Acro Ahşap on a phone: real mobile screen of acroahsap.com" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
